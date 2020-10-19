@@ -1,2 +1,2 @@
 # inkkim.github.io-comments
-comments of inkkim.github.io
+Utterances를 이용하 블로그 댓글
